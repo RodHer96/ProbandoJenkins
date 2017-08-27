@@ -28,6 +28,7 @@ main()
       {
                   printf("\nLa edad de la persona #%i es %i",i+1,ptrarreglo[i]->edad);
                   printf("\nLa altura de la persona #%i es %.2f",i+1,ptrarreglo[i]->altura);
+                  printf("\nSoy tu HOMBRE :V");
                   
       }
       
